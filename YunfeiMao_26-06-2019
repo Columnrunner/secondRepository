@@ -1,0 +1,26 @@
+./secondRepository/.git/hooks/post-update.sample
+./secondRepository/.git/hooks/update.sample
+./Library/Application Support/Code/CachedData/c7d83e57cd18f18026a8162d042843bda1bcf21f/auto-updater-native-54d94ef3854d4b35e5cbe3a634c75afd.code
+./Library/Application Support/Code/CachedData/c7d83e57cd18f18026a8162d042843bda1bcf21f/auto-updater-ea208d33ac1bb8fb325d4a7b991e5747.code
+./Library/Preferences/com.microsoft.autoupdate.fba.plist
+./Library/Preferences/com.microsoft.autoupdate2.plist
+./Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore
+./Library/Google/GoogleSoftwareUpdate/Crashes/settings.dat
+./Library/Google/GoogleSoftwareUpdate/CountingMetrics.plist
+./Library/Google/GoogleSoftwareUpdate/Servers/Omaha-68747470733A2F2F746F6F6C732E676F6F676C652E636F6D2F736572766963652F75706461746532.serverstore
+./Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats
+./Library/Logs/SparkleUpdateLog.log
+./Library/Group Containers/UBF8T346G9.ms/com.microsoft.autoupdate.fba/ceippref.plist
+./Library/Caches/com.apple.helpd/index.spotlightV3/live.0.indexUpdates
+./Library/Caches/com.apple.helpd/index.spotlightV3/live.0.indexBigDates
+./Library/Caches/com.apple.helpd/index.spotlightV3/store.updates
+./Library/Caches/com.microsoft.autoupdate.fba/Cache.db-shm
+./Library/Caches/Microsoft/uls/com.microsoft.autoupdate.fba/ci.plist
+./Library/Caches/Microsoft/uls/com.microsoft.autoupdate.fba/logs/apple-device-log-20190625-1944.log
+./Library/Caches/com.apple.appstoreagent/updates.plist
+./Library/Caches/com.apple.commerce/UpdateOperationAudit.plist
+./Library/Caches/com.apple.commerce/UpdateOperationAuditInfoCache-303085D1-657E-4027-B3B5-5B2FC3185E41.plist
+./Library/Caches/com.apple.commerce/updates.plist
+./Library/Caches/com.oracle.java.Java-Updater/Cache.db-shm
+./git-tutorials/.git/hooks/post-update.sample
+./git-tutorials/.git/hooks/update.sample
