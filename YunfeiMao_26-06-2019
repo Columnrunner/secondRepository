@@ -1,4 +1,4 @@
-find . -type f -mtime -10 | grep "date" 
+find . -type f -mtime -10 | grep "date" > YunfeiMao_26-06-2019
 
 
 
