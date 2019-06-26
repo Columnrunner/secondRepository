@@ -1,3 +1,8 @@
+find . -type f -mtime -10 | grep "date" 
+
+
+
+
 ./secondRepository/.git/hooks/post-update.sample
 ./secondRepository/.git/hooks/update.sample
 ./Library/Application Support/Code/CachedData/c7d83e57cd18f18026a8162d042843bda1bcf21f/auto-updater-native-54d94ef3854d4b35e5cbe3a634c75afd.code
